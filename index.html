@@ -1,108 +1,132 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>Made In NZ - Internet companies made in New Zealand</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+<head>
+  <meta charset="utf-8">
+  <title>Made In NZ - Internet companies made in New Zealand</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="author" content="">
 
-    <!-- Le styles -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">    
-    <style type="text/css">
+  <!-- Le styles -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">    
+  <style type="text/css">
+
+      /* Sticky footer styles
+      -------------------------------------------------- */
+
+      html,
       body {
-        padding-top: 20px;
-        padding-bottom: 40px;
+        height: 100%;
+        /* The html and body elements cannot have any padding or margin. */
       }
 
-      /* Custom container */
-      .container-narrow {
-        margin: 0 auto;
-        max-width: 700px;
-      }
-      .container-narrow > hr {
-        margin: 30px 0;
-      }
-
-      /* Main marketing message and sign up button */
-      .jumbotron {
-        margin: 60px 0;
-        text-align: center;
-      }
-      .jumbotron h1 {
-        font-size: 72px;
-        line-height: 1;
-      }
-      .jumbotron .btn {
-        font-size: 21px;
-        padding: 14px 24px;
+      /* Wrapper for page content to push down footer */
+      #wrap {
+        min-height: 100%;
+        height: auto !important;
+        height: 100%;
+        /* Negative indent footer by it's height */
+        margin: 0 auto -60px;
       }
 
-      /* Supporting marketing content */
-      .marketing {
-        margin: 60px 0;
+      /* Set the fixed height of the footer here */
+      #push,
+      #footer {
+        height: 60px;
       }
-      .marketing p + h4 {
-        margin-top: 28px;
+      #footer {
+        background-color: #f5f5f5;
       }
+
+      /* Lastly, apply responsive CSS fixes as necessary */
+      @media (max-width: 767px) {
+        #footer {
+          margin-left: -20px;
+          margin-right: -20px;
+          padding-left: 20px;
+          padding-right: 20px;
+        }
+      }
+
+      /* Custom page CSS
+      -------------------------------------------------- */
+      /* Not required for template or sticky footer method. */
+
+      .container {
+        width: auto;
+        max-width: 768px;
+      }
+      .container .credit {
+        margin: 20px 0;
+      }      
 
       .madein {
         font-family: 'Mr De Haviland', cursive;
         font-size: 50px;
         font-weight: normal;
-      }
-    </style>
-    <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
-    <link href='http://fonts.googleapis.com/css?family=Mr+De+Haviland' rel='stylesheet' type='text/css'>
-  </head>
+      }      
+      
+      </style>
+      <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
+      <link href='http://fonts.googleapis.com/css?family=Mr+De+Haviland' rel='stylesheet' type='text/css'>
+    </head>
 
-  <body>
+    <body>
 
-    <div class="container-narrow">    
-      <hr>
-      <div class="jumbotron">
-        <h1><span class="madein">made in </span>New Zealand</h1>
-        <p class="lead">A collection of internet companies made with ♥ in NZ</p>
-        <a class="btn btn-large btn-success" href="#wanttojoin" data-toggle="modal" role="button">Want to Join ?</a>
-      </div>
-      <hr>
-      <div class="row-fluid marketing">        
-        <div class="span12">
-          <ol>
-            <li>
-              <h4><a href="http://infinity.io">infinity.io</a> </h4>              
-          </li>
-          <li>
-              <h4><a href="http://www.mindginative.com">mindginative</a></h4>
-              <p><i class="icon-info-sign"></i> A small backend & mobile consultancy shop</p>          
-          </li>
-          <li>
-              <h4><a href="#">Your company</a> <span class="label label-important">hiring</span></h4>
-              <p><i class="icon-info-sign"></i> Lorem ipsum description</p>          
-          </li>
-        </ol>
+      <!-- wrap -->
+      <div id="wrap">
+
+        <!-- Begin page content -->
+        <div class="container">
+          <div class="page-header">
+            <h1><span class="madein">made in</span> New Zealand</h1>
+          </div>
+          <p class="lead muted">
+              A collection of internet companies made with ♥ in NZ
+              <a class="btn btn-primary" href="#wanttojoin" data-toggle="modal" role="button">Want to Join ?</a>
+          </p>
+
+          <p>
+            <ol>
+                <li>
+                  <h5><a href="http://www.grabone.co.nz/" target="_blank">GrabOne</a> </h5>
+                </li>
+                <li>
+                  <h5><a href="http://infinity.io" target="_blank">infinity.io</a> </h5>
+                </li>
+                <li>
+                  <h5><a href="http://trademe.co.nz/" target="_blank">Trade Me</a> </h5>
+                </li>
+            </ol>
+          </p>
         </div>
-      </div>
-      <hr>
-      <div class="footer">
-        Inspired by <a href="http://nytm.org/made-in-nyc">Internet Made in New York City</a> and <a href="http://madeinoz.org">Made in Oz</a> |  Powered by <a href="http://twitter.github.com/bootstrap/index.html">Boostrap</a>
-      </div>
 
+        <div id="push"></div>
+      </div> <!-- /wrap -->
+
+      <!-- footer -->
+      <div id="footer">
+        <div class="container">
+          <p class="muted credit">
+            Inspired by <a href="http://nytm.org/made-in-nyc">Internet Made in New York City</a> and <a href="http://madeinoz.org">Made in Oz</a> |  Brought to you by <a href="https://twitter.com/mindginative">@mindginative</a> | Powered by <a href="http://twitter.github.com/bootstrap/index.html">Boostrap</a>
+          </p>
+        </div>
+      </div><!-- /footer -->
+
+      <!-- modal -->
       <div id="wanttojoin" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-          <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-            <h3 id="myModalLabel">Want to join ?</h3>
-          </div>
-          <div class="modal-body">
-            <p>Want you list your New Zealand site here? <a href="https://github.com/rixrix/madeinnz">Add a pull request</a></p>
-          </div>
-          <div class="modal-footer">
-            <button class="btn" data-dismiss="modal" aria-hidden="true">Ok</button>            
-          </div>
-      </div>        
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h3 id="myModalLabel">Want to join ?</h3>
+        </div>
+        <div class="modal-body">
+          <p>Want you list your New Zealand site here? <a href="https://github.com/rixrix/madeinnz">Add a pull request</a></p>
+        </div>
+        <div class="modal-footer">
+          <button class="btn" data-dismiss="modal" aria-hidden="true">Ok</button>            
+        </div>
+      </div><!-- /modal -->
 
-    </div> <!-- /container -->
-    
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
@@ -110,16 +134,16 @@
     <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>    
     <script type="text/javascript">
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-39003607-1']);
-      _gaq.push(['_setDomainName', 'github.com']);
-      _gaq.push(['_trackPageview']);
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-39003607-1']);
+    _gaq.push(['_setDomainName', 'github.com']);
+    _gaq.push(['_trackPageview']);
 
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-  </script>
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    </script>
   </body>
-</html>
+  </html>
