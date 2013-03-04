@@ -126,7 +126,7 @@
 
     <script type="text/javascript">
       jQuery(document).ready(function($){
-          $.getJSON('https://github.com/rixrix/madeinnz/blob/master/data.json', function(json){
+          $.getJSON('https://raw.github.com/rixrix/madeinnz/master/data.json', function(json){
               if (json) {
                   var list = $('#data-holder').append('<ol></ol>').find('ol');
                   $.each(json.data, function(index, value){
