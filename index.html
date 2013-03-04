@@ -125,16 +125,38 @@
     <script src="js/bootstrap.min.js"></script>    
 
     <script type="text/javascript">
-      jQuery(document).ready(function($){
-          $.getJSON('https://raw.github.com/rixrix/madeinnz/master/data.json', function(json){
-              if (json) {
-                  var list = $('#data-holder').append('<ol></ol>').find('ol');
-                  $.each(json.data, function(index, value){
-                      list.append('<li class="muted"><h5><a href="' + value.url + '" target="_blank">'+ value.name +'</a> </h5></li>');
-                  });
-              }
-          });
-      });
+        $(document).ready(function(){
+            var json = {
+                "data":[
+                  {
+                    "name": "GrabOne",
+                    "url": "http://www.grabone.co.nz",
+                    "desc": ""
+                  },
+                  {
+                    "name": "Infinity",
+                    "url": "http://infinity.io",
+                    "desc": ""
+                  },
+                  {
+                    "name": "Trade Me",
+                    "url": "http://trademe.co.nz",
+                    "desc": ""
+                  },
+                  {
+                    "name": "Sella",
+                    "url": "http://sella.co.nz/",
+                    "desc": ""
+                  }
+                ]
+              }; 
+
+              var list = $('#data-holder').append('<ol></ol>').find('ol');
+              $.each(json.data, function(index, value){
+                  list.append('<li class="muted"><h5><a href="' + value.url + '" target="_blank">'+ value.name +'</a> </h5></li>');
+              });
+        });
+      
     </script>
 
     <script type="text/javascript">
