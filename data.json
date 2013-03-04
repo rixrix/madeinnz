@@ -1,0 +1,24 @@
+{
+	"data":[
+		{
+			"name": "GrabOne",
+			"url": "http://www.grabone.co.nz",
+			"desc": ""
+		},
+		{
+			"name": "Infinity",
+			"url": "http://infinity.io",
+			"desc": ""
+		},
+		{
+			"name": "Trade Me",
+			"url": "http://trademe.co.nz",
+			"desc": ""
+		},
+		{
+			"name": "Sella",
+			"url": "http://sella.co.nz/",
+			"desc": ""
+		}
+	]
+}
