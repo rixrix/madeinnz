@@ -64,6 +64,27 @@ processRecordCallback(
 	    {
 	    	"name": "Signify",
 	    	"url": "http://www.signify.co.nz/"
-	    }
+	    },
+	    {
+	    	"name": "Black Sheep Creative",
+	    	"url": "http://blacksheepcreative.co.nz/"
+	    },
+	    {
+	    	"name": "Unleased",
+	    	"url":"http://www.unleashedsoftware.com/"
+	    },
+	    {
+	    	"name": "Training and Beyond",
+	    	"url": "http://www.trainingandbeyond.co.nz/"
+	    },
+	    {
+	    	"name": "GeoOP",
+	    	"url": "http://www.geoop.com/"
+	    },
+	    {
+	    	"name": "Silverstripe",
+	    	"url": "http://www.silverstripe.com/"
+ 	    }
+
 	]
 );
