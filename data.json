@@ -19,6 +19,26 @@ processRecordCallback(
 			"name": "Sella",
 			"url": "http://sella.co.nz/",
 			"desc": ""
-		}
+		},
+		{
+	        "name": "Treat Me",
+	        "url": "http://www.treatme.co.nz",
+	        "desc": ""
+	    },
+	    {
+	        "name": "Xero",
+	        "url": "http://www.xero.com/",
+	        "desc": ""
+	    },
+	    {
+	        "name": "Pushpay",
+	        "url": "http://getpushpay.com/",
+	        "desc": ""
+	    },
+	    {
+	        "name": "SPM Software",
+	        "url": "http://www.spmassets.com/",
+	        "desc": ""
+	    }
 	]
 );
