@@ -1,5 +1,5 @@
-{
-	"data":[
+processRecordCallback(
+	[
 		{
 			"name": "GrabOne",
 			"url": "http://www.grabone.co.nz",
@@ -21,4 +21,4 @@
 			"desc": ""
 		}
 	]
-}
+);
