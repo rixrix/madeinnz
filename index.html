@@ -136,7 +136,8 @@
                     
                     json.sort(function(a,b) { return a.name > b.name });
                     $.each(json, function(index, value){
-                        list.append('<li class="muted"><h5><a href="' + value.url + '" target="_blank">'+ value.name +'</a> </h5></li>');
+                        var item = $('<li class="muted"><h5><a href="' + value.url + '" target="_blank">'+ value.name +'</a> </h5></li>');
+                        list.append(item);                        
                     });
                 }
             });            
