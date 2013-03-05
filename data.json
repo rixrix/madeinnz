@@ -44,6 +44,26 @@ processRecordCallback(
 	        "name": "Web Fu",
 	        "url": "http://www.webfu.co.nz/",
 	        "desc": ""
+	    },
+	    {
+	    	"name": "Mega",
+	    	"url": "https://mega.co.nz/"
+	    },
+	    {
+	    	"name": "Slighshot",
+	    	"url": "http://www.slingshot.co.nz/"
+	    },
+	    {
+	    	"name": "Zeald",
+	    	"url": "http://www.zeald.com/"
+	    },
+	    {
+	    	"name": "Unleashing Potential",
+	    	"url": "http://www.unleashingpotential.co.nz"
+	    },
+	    {
+	    	"name": "Signigy",
+	    	"url": "http://www.signify.co.nz/"
 	    }
 	]
 );
