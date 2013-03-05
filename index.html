@@ -72,22 +72,23 @@
     </head>
 
     <body>
-
+      <div>
+        <a href="https://github.com/rixrix/madeinnz">
+          <a href="https://github.com/you"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" alt="Fork me on GitHub"></a>
+        </a>
+      </div>  
       <!-- wrap -->
       <div id="wrap">
 
         <!-- Begin page content -->
         <div class="container">
-
           <div class="page-header">
             <h1><span class="madein">made in</span> New Zealand</h1>
-          </div>
-
+          </div>          
           <p class="lead muted">
               A collection of internet companies made with ♥ in NZ
               <a class="btn btn-primary" href="#wanttojoin" data-toggle="modal" role="button">Want to Join ?</a>
-          </p>
-
+          </p>          
           <p id="data-holder"></p>
         </div>
 
@@ -133,6 +134,7 @@
                 success: function(json) {
                     var list = $('#data-holder').append('<ol></ol>').find('ol');
                     
+                    json.sort(function(a,b) { return a.name > b.name });
                     $.each(json, function(index, value){
                         list.append('<li class="muted"><h5><a href="' + value.url + '" target="_blank">'+ value.name +'</a> </h5></li>');
                     });
