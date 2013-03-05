@@ -39,6 +39,11 @@ processRecordCallback(
 	        "name": "SPM Software",
 	        "url": "http://www.spmassets.com/",
 	        "desc": ""
+	    },
+	    {
+	        "name": "Web Fu",
+	        "url": "http://www.webfu.co.nz/",
+	        "desc": ""
 	    }
 	]
 );
