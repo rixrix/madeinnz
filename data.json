@@ -4,12 +4,7 @@ processRecordCallback(
 			"name": "GrabOne",
 			"url": "http://www.grabone.co.nz",
 			"desc": ""
-		},
-		{
-			"name": "Infinity",
-			"url": "http://infinity.io",
-			"desc": ""
-		},
+		},		
 		{
 			"name": "Trade Me",
 			"url": "http://trademe.co.nz",
@@ -39,44 +34,23 @@ processRecordCallback(
 	        "name": "SPM Software",
 	        "url": "http://www.spmassets.com/",
 	        "desc": ""
-	    },
-	    {
-	        "name": "Web Fu",
-	        "url": "http://www.webfu.co.nz/",
-	        "desc": ""
-	    },
+	    },	    
 	    {
 	    	"name": "Mega",
 	    	"url": "https://mega.co.nz/"
-	    },
-	    {
-	    	"name": "Slighshot",
-	    	"url": "http://www.slingshot.co.nz/"
-	    },
-	    {
-	    	"name": "Zeald",
-	    	"url": "http://www.zeald.com/"
-	    },
+	    },	    
 	    {
 	    	"name": "Unleashing Potential",
 	    	"url": "http://www.unleashingpotential.co.nz"
 	    },
 	    {
-	    	"name": "Signify",
-	    	"url": "http://www.signify.co.nz/"
-	    },
-	    {
-	    	"name": "Black Sheep Creative",
-	    	"url": "http://blacksheepcreative.co.nz/"
+	    	"name": "Quotient",
+	    	"url": "http://quotientapp.com/"
 	    },
 	    {
 	    	"name": "Unleased",
 	    	"url":"http://www.unleashedsoftware.com/"
-	    },
-	    {
-	    	"name": "Training and Beyond",
-	    	"url": "http://www.trainingandbeyond.co.nz/"
-	    },
+	    },	    
 	    {
 	    	"name": "GeoOP",
 	    	"url": "http://www.geoop.com/"
