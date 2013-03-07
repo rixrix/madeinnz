@@ -32,10 +32,12 @@
       /* Set the fixed height of the footer here */
       #push,
       #footer {
-        height: 60px;
+        height: 160px;
       }
       #footer {
         background-color: #f5f5f5;
+        text-align: center;
+        border-top:1px solid rgb(229, 229, 229);
       }
 
       /* Lastly, apply responsive CSS fixes as necessary */
@@ -44,7 +46,7 @@
           margin-left: -20px;
           margin-right: -20px;
           padding-left: 20px;
-          padding-right: 20px;
+          padding-right: 20px;          
         }
       }
 
@@ -71,22 +73,21 @@
       <link href='http://fonts.googleapis.com/css?family=Mr+De+Haviland' rel='stylesheet' type='text/css'>
     </head>
 
-    <body>
-      <div>        
-          <a href="https://github.com/rixrix/madeinnz"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" alt="Fork me on GitHub"></a>        
-      </div>  
+    <body>      
       <!-- wrap -->
       <div id="wrap">
 
         <!-- Begin page content -->
         <div class="container">
-          <div class="page-header">
+          <div class="page-header" style="text-align:center;">
             <h1><span class="madein">made in</span> New Zealand</h1>
-          </div>          
-          <p class="lead muted">
-              A collection of internet companies made in NZ
-              <a class="btn btn-primary" href="#wanttojoin" data-toggle="modal" role="button">Want to Join ?</a>
-          </p>          
+          </div>
+          <div style="text-align:center;"> 
+            <p class="lead muted">
+                A collection of internet companies made in NZ              
+            </p>          
+            <a class="btn btn-primary" href="#wanttojoin" data-toggle="modal" role="button">Want to Join ?</a>
+          </div>
           <p id="data-holder"></p>
         </div>
 
@@ -97,7 +98,11 @@
       <div id="footer">
         <div class="container">
           <p class="muted credit">
-            Inspired by <a href="http://nytm.org/made-in-nyc">Internet Made in New York City</a> and <a href="http://madeinoz.org">Made in Oz</a> |  Brought to you by <a href="https://twitter.com/mindginative">@mindginative</a> | Powered by <a href="http://twitter.github.com/bootstrap/index.html">Boostrap</a>
+            Following in the footsteps of <a href="http://nytm.org/made-in-nyc" target="_blank">Internet Made in New York City</a> and <a href="http://madeinoz.org" target="_blank">Made in Oz</a>, Made in NZ brings out remarkable web creations from New Zealand and introduces them to the rest of the world. 
+            Made in NZ aims to highlight New Zealand-based companies that create products or services with a certain scope such as web apps, as well as start-ups that proudly market their NZ origins.
+          </p>
+          <p class="muted credit">
+            With all the love in the world by <a href="https://twitter.com/mindginative">@mindginative</a> | Powered by <a href="http://twitter.github.com/bootstrap/index.html">Boostrap</a>
           </p>
         </div>
       </div><!-- /footer -->
