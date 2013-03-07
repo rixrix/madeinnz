@@ -54,7 +54,34 @@ processRecordCallback(
 	    {
 	    	"name": "Silverstripe",
 	    	"url": "http://www.silverstripe.com/"
+ 	    },
+ 	    {
+ 	    	"name": "Endace",
+ 	    	"url": "http://www.endace.com/"
+ 	    },
+ 	    {
+ 	    	"name": "Biomatters",
+ 	    	"url": "http://www.biomatters.com/"
+ 	    },
+ 	    {
+ 	    	"name": "Slingshot",
+ 	    	"url": "http://www.slingshot.co.nz/"
+ 	    },
+ 	    {
+ 	    	"name": "Woosh",
+ 	    	"url": "http://www.woosh.com/"
+ 	    },
+ 	    {
+ 	    	"name": "Optimizer HQ",
+ 	    	"url": "http://www.optimizerhq.com/"
+ 	    },
+ 	    {
+ 	    	"name": "Mako Networks",
+ 	    	"url": "http://www.makonetworks.com/"
+ 	    },
+ 	    {
+ 	    	"name": "Car Jam",
+ 	    	"url": "http://www.carjam.co.nz/"
  	    }
-
 	]
 );
