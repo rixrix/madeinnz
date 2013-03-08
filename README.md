@@ -4,4 +4,4 @@ Following in the footsteps of [Internet Made in New York City ](http://nytm.org/
 
 Credits
 =======
-With all the love from these people [@mindginative](https://twitter.com/mindginative), [@ybiang](https://twitter.com/mindginative), Alavrouribe
+With all the love from these people [@mindginative](https://twitter.com/mindginative), [@ybiang](https://twitter.com/mindginative), [Alavro Uribe](https://github.com/alvarouribe) and the tweet sent by [@katekendall](https://twitter.com/katekendall/status/308454016503914496)
