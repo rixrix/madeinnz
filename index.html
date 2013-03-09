@@ -18,6 +18,9 @@
       body {
         height: 100%;
         /* The html and body elements cannot have any padding or margin. */
+        background: url(img/kiwi.png);
+        background-repeat:no-repeat;
+        background-position:left top; 
       }
 
       /* Wrapper for page content to push down footer */
@@ -68,6 +71,13 @@
         font-weight: normal;
       }      
       
+      #search {
+        width: 350px;
+      }
+      .form-search {
+        display: none;
+      }
+
       </style>
       <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
       <link href='http://fonts.googleapis.com/css?family=Mr+De+Haviland' rel='stylesheet' type='text/css'>
@@ -86,6 +96,11 @@
             <p class="lead muted">
                 A collection of internet companies made in NZ              
             </p>          
+            <!-- Search input -->
+            <form class="form-search">
+              <input id="search" type="text" autocomplete="off" data-provide="typeahead" >
+              <a id="lnk-btn" class="btn" href="#" ><i class="icon-search"></i> Go</a>
+            </form>
             <a class="btn btn-primary" href="#wanttojoin" data-toggle="modal" role="button">Want to Join ?</a>
           </div>
           <p id="data-holder"></p>
@@ -135,16 +150,31 @@
                 dataType: 'jsonp',
                 jsonpCallback: 'processRecordCallback',
                 success: function(json) {
-                    var list = $('#data-holder').append('<ol></ol>').find('ol');
+                    var list = $('#data-holder').append('<ol></ol>').find('ol'),
+                        searchableItems = [];
                     
                     json.sort(function(a,b) { return a.name > b.name });
                     $.each(json, function(index, value){
                         var item = $('<li class="muted"><h5><a href="' + value.url + '" target="_blank">'+ value.name +'</a> </h5></li>');
-                        list.append(item);                        
+                        list.append(item); 
+                        searchableItems.push( value.url );                       
                     });
+                    $('#search').typeahead({source: searchableItems});
+                    $('.form-search').show(); // display the text input after the url array is set
                 }
-            });            
-        });      
+            });
+
+            $('#lnk-btn').click(function() {
+              var searchVal = $('#search').val();
+              if (searchVal != '') window.open(searchVal);
+            });
+
+            $('.form-search').submit(function() {
+              var searchVal = $('#search').val();
+              if (searchVal != '') window.open(searchVal);
+              return false;
+            });
+        });        
     </script>
 
     <script type="text/javascript">
