@@ -82,6 +82,22 @@ processRecordCallback(
  	    {
  	    	"name": "Car Jam",
  	    	"url": "http://www.carjam.co.nz/"
+ 	    },
+ 	    {
+ 	    	"name": "Findly",
+ 	    	"url": "http://www.findly.com"
+ 	    },
+ 	    {
+ 	    	"name": "Bucky Box",
+ 	    	"url": "http://www.buckybox.com"
+ 	    },
+ 	    {
+ 	    	"name": "Grinding Gear",
+ 	    	"url": "http://www.grindinggear.com/"
+ 	    },
+ 	    {
+ 	    	"name": "Trigger Happy",
+ 	    	"url": "http://www.iamtriggerhappy.com/"
  	    }
 	]
 );
