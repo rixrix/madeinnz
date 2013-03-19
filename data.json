@@ -98,6 +98,38 @@ processRecordCallback(
  	    {
  	    	"name": "Trigger Happy",
  	    	"url": "http://www.iamtriggerhappy.com/"
- 	    }
+ 	    },
+ 	    {
+ 	    	"name": "WIP",
+ 	    	"url": "https://www.wipvideos.com/"
+ 	    },
+ 	    {
+ 	    	"name": "Kidsgomobile",
+ 	    	"url": "http://signup.kidsgomobile.com/"
+ 	    },
+ 	    {
+ 	    	"name": "Teamisto",
+ 	    	"url": "http://teamisto.com/"
+ 	    },
+ 	    {
+ 	    	"name": "Expander",
+ 	    	"url": "http://expander.co.nz/"
+ 	    },
+ 	    {
+ 	    	"name": "MyBuy",
+ 	    	"url": "http://mybuy.net.nz/"
+ 	    },
+ 	    {
+ 	    	"name": "Learn Coach",
+ 	    	"url": "http://learncoach.co.nz/"
+ 	    },
+ 	    {
+ 	    	"name": "Promoki",
+ 	    	"url": "http://promoki.com/" 	    	
+ 	    },
+ 	    {
+ 	    	"name": "Questo",
+ 	    	"url": "http://www.heyquesto.co/"
+ 	    } 	    
 	]
 );
