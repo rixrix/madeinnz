@@ -130,6 +130,10 @@ processRecordCallback(
  	    {
  	    	"name": "Questo",
  	    	"url": "http://www.heyquesto.co/"
- 	    } 	    
+ 	    },
+ 	    {
+ 	    	"name": "Vend",
+ 	    	"url": "http://www.vendhq.com/"
+ 	    }
 	]
 );
