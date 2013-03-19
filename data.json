@@ -138,6 +138,10 @@ processRecordCallback(
  	    {
  	    	"name": "Orion Health",
  	    	"url": "http://www.orionhealth.com"
+ 	    },
+ 	    {
+ 	    	"name": "Swipe Stripe",
+ 	    	"url": "http://swipestripe.com"
  	    }
 	]
 );
