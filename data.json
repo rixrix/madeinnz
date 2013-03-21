@@ -142,6 +142,26 @@ processRecordCallback(
  	    {
  	    	"name": "Swipe Stripe",
  	    	"url": "http://swipestripe.com"
+ 	    },
+ 	    {
+ 	    	"name": "Go Vocab",
+ 	    	"url": "https://govocab.com"
+ 	    },
+ 	    {
+ 	    	"name": "My Tours",
+ 	    	"url": "http://mytoursapp.com"
+ 	    },
+ 	    {
+ 	    	"name": "Educa",
+ 	    	"url": "http://www.educa.co.nz/"
+ 	    },
+ 	    {
+ 	    	"name" : "Pocketsmith",
+ 	    	"url": "http://www.pocketsmith.com"
+ 	    },
+ 	    {
+ 	    	"name": "Luumin",
+ 	    	"url": "http://luumin.com/"
  	    }
 	]
 );
