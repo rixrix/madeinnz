@@ -130,6 +130,38 @@ processRecordCallback(
  	    {
  	    	"name": "Questo",
  	    	"url": "http://www.heyquesto.co/"
- 	    } 	    
+ 	    },
+ 	    {
+ 	    	"name": "Vend",
+ 	    	"url": "http://www.vendhq.com/"
+ 	    },
+ 	    {
+ 	    	"name": "Orion Health",
+ 	    	"url": "http://www.orionhealth.com"
+ 	    },
+ 	    {
+ 	    	"name": "Swipe Stripe",
+ 	    	"url": "http://swipestripe.com"
+ 	    },
+ 	    {
+ 	    	"name": "Go Vocab",
+ 	    	"url": "https://govocab.com"
+ 	    },
+ 	    {
+ 	    	"name": "My Tours",
+ 	    	"url": "http://mytoursapp.com"
+ 	    },
+ 	    {
+ 	    	"name": "Educa",
+ 	    	"url": "http://www.educa.co.nz/"
+ 	    },
+ 	    {
+ 	    	"name" : "Pocketsmith",
+ 	    	"url": "http://www.pocketsmith.com"
+ 	    },
+ 	    {
+ 	    	"name": "Luumin",
+ 	    	"url": "http://luumin.com/"
+ 	    }
 	]
 );
