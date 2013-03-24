@@ -162,6 +162,62 @@ processRecordCallback(
  	    {
  	    	"name": "Luumin",
  	    	"url": "http://luumin.com/"
+ 	    },
+ 	    {
+ 	    	"name": "TranscribeMe",
+ 	    	"url": "http://transcribeme.com/"
+ 	    },
+ 	    {
+ 	    	"name": "3D Makers World",
+ 	    	"url": "http://3dmakersworld.com/"
+ 	    },
+ 	    {
+ 	    	"name": "Web Drive",
+ 	    	"url": "http://www.webdrive.co.nz/"
+ 	    },
+ 	    {
+ 	    	"name": "NZGirl",
+ 	    	"url": "http://www.nzgirl.co.nz/"
+ 	    },
+ 	    {
+ 	    	"name": "Mighty Ape",
+ 	    	"url": "http://www.mightyape.co.nz/"
+ 	    },
+ 	    {
+ 	    	"name": "Lil Regie",
+ 	    	"url": "http://lilregie.com/"
+ 	    },
+ 	    {
+ 	    	"name": "Yonix",
+ 	    	"url": "http://www.yonix.com/"
+ 	    },
+ 	    {
+ 	    	"name": "nimbleScript",
+ 	    	"url": "http://www.nimblescript.com/"
+ 	    },
+ 	    {
+ 	    	"name": "Unified Inbox",
+ 	    	"url": "http://unifiedinbox.com"
+ 	    },
+ 	    {
+ 	    	"name": "Chalkle°",
+ 	    	"url": "http://chalkle.com/"
+ 	    },
+ 	    {
+ 	    	"name": "Loomio",
+ 	    	"url": "https://www.loomio.org/"
+ 	    },
+ 	    {
+ 	    	"name": "Copono",
+ 	    	"url": "http://copono.com/"
+ 	    },
+ 	    {
+ 	    	"name": "E-spresso",
+ 	    	"url": "http://e-spresso.co.nz/"
+ 	    },
+ 	    {
+ 	    	"name": "Filmsourcing",
+ 	    	"url": "http://www.filmsourcing.com/"
  	    }
 	]
 );
