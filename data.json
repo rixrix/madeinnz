@@ -52,7 +52,6 @@ processRecordCallback(
 	    	"url": "http://www.geoop.com/"
 	    },
 	    {
-<<<<<<< HEAD
 	    	"name": "Silverstripe",
 	    	"url": "http://www.silverstripe.com/"
  	    },
@@ -236,10 +235,5 @@ processRecordCallback(
  	    	"name": "KidsGoMobile",
  	    	"url": "https://www.kidsgomobile.com"
  	    }
-=======
-	    	"name": "Signify",
-	    	"url": "http://www.signify.co.nz/"
-	    }
->>>>>>> Added 5 new data
 	]
 );
