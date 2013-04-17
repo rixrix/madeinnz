@@ -230,6 +230,14 @@ processRecordCallback(
  	    {
  	    	"name": "SnapComms",
  	    	"url": "http://www.snapcomms.com"
+ 	    },
+ 	    {
+ 	    	"name": "Lifetime Health Diary",
+ 	    	"url": "http://www.lifetimehealthdiary.com/"
+ 	    },
+ 	    {
+ 	    	"name": "KidsGoMobile",
+ 	    	"url": "https://www.kidsgomobile.com"
  	    }
 	]
 );
