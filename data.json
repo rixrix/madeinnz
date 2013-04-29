@@ -238,6 +238,10 @@ processRecordCallback(
         {
             "name": "Mobilize Mail",
             "url": "http://www.mobilizemail.com"
+        },
+        {
+            "name": "vWorkApp",
+            "url": "https://www.vworkapp.com"
         }
 	]
 );
