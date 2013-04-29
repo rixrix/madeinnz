@@ -236,8 +236,12 @@ processRecordCallback(
  	    	"url": "https://www.kidsgomobile.com"
  	    },
         {
-        "name": "Mobilize Mail",
-        "url": "http://www.mobilizemail.com"
+            "name": "Mobilize Mail",
+            "url": "http://www.mobilizemail.com"
+        },
+        {
+            "name": "vWorkApp",
+            "url": "https://www.vworkapp.com"
         }
 	]
 );
