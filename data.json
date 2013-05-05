@@ -242,6 +242,22 @@ processRecordCallback(
         {
             "name": "vWorkApp",
             "url": "https://www.vworkapp.com"
+        },
+        {
+            "name": "Smartrak",
+            "url": "http://www.smartrak.co.nz"
+        },
+        {
+            "name": "Straker Translations",
+            "url": "http://www.strakertranslations.com"
+        },
+        {
+            "name": "Digital Arena",
+            "url": "http://www.digitalarena.co.nz"
+        },
+        {
+            "name": "Revera",
+            "url": "http://www.revera.co.nz"
         }
 	]
 );
