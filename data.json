@@ -258,6 +258,10 @@ processRecordCallback(
         {
             "name": "Revera",
             "url": "http://www.revera.co.nz"
+        },
+        {
+            "name": "Address Finder",
+            "url": "http://addressfinder.co.nz"
         }
 	]
 );
