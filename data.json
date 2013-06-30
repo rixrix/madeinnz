@@ -262,6 +262,14 @@ processRecordCallback(
         {
             "name": "Address Finder",
             "url": "http://addressfinder.co.nz"
+        },
+        {
+            "name": "Booktrack",
+            "url":"http://www.booktrack.com"
+        },
+        {
+        	"name": "Snitch",
+        	"url": "http://www.snitch.co.nz"
         }
 	]
 );
