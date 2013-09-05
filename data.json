@@ -270,6 +270,10 @@ processRecordCallback(
         {
         	"name": "Snitch",
         	"url": "http://www.snitch.co.nz"
+        },
+        {
+        	"name": "Strea.ma",
+        	"url": "http://strea.ma"
         }
 	]
 );
