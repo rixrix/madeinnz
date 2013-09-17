@@ -278,6 +278,10 @@ processRecordCallback(
         {
         	"name": "Realestate.co.nz Ltd"
         	"url": "http://www.realestate.co.nz"
+        },
+        {
+        	"name": "Logajob",
+        	"url": "http://www.logajob.co.nz"
         }
 	]
 );
