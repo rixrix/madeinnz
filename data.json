@@ -274,6 +274,14 @@ processRecordCallback(
         {
         	"name": "Strea.ma",
         	"url": "http://strea.ma"
+        },
+        {
+        	"name": "Realestate.co.nz Ltd"
+        	"url": "http://www.realestate.co.nz"
+        },
+        {
+        	"name": "Logajob",
+        	"url": "http://www.logajob.co.nz"
         }
 	]
 );
