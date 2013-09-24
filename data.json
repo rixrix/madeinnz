@@ -286,6 +286,10 @@ processRecordCallback(
         {
             "name": "Shopshop",
             "url": "http://shopshop.io"
+        },
+        {
+            "name": "Publons",
+            "url": "http://publons.com/"
         }
 	]
 );
