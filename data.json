@@ -290,6 +290,10 @@ processRecordCallback(
         {
             "name": "Publons",
             "url": "http://publons.com/"
+        },
+        {
+            "name": "Adeez",
+            "url": "http://adeez.co"
         }
 	]
 );
