@@ -100,8 +100,8 @@ processRecordCallback(
  	    	"url": "http://www.iamtriggerhappy.com/"
  	    },
  	    {
- 	    	"name": "WIP",
- 	    	"url": "https://www.wipvideos.com/"
+ 	    	"name": "Wipster",
+ 	    	"url": "http://wipster.io"
  	    },
  	    {
  	    	"name": "Teamisto",
@@ -282,6 +282,18 @@ processRecordCallback(
         {
             "name": "Logajob",
             "url": "http://www.logajob.co.nz"
+        },
+        {
+            "name": "Shopshop",
+            "url": "http://shopshop.io"
+        },
+        {
+            "name": "Publons",
+            "url": "http://publons.com/"
+        },
+        {
+            "name": "Adeez",
+            "url": "http://adeez.co"
         }
 	]
 );
