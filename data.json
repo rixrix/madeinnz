@@ -282,6 +282,10 @@ processRecordCallback(
         {
             "name": "Logajob",
             "url": "http://www.logajob.co.nz"
+        },
+        {
+            "name": "Shopshop",
+            "url": "http://shopshop.io"
         }
 	]
 );
