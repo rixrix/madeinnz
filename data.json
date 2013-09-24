@@ -294,6 +294,10 @@ processRecordCallback(
         {
             "name": "Adeez",
             "url": "http://adeez.co"
+        },
+        {
+            "name": "CricHQ",
+            "url": "http://www.crichq.com"
         }
 	]
 );
