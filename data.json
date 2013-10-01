@@ -379,6 +379,15 @@ processRecordCallback(
             "location": {
                 "address": ""
             }
-        }                                
+        },
+        {
+            "name": "swingprofile",
+            "url": "www.swingprofile.com",
+            "description": "",
+            "date_added": "1380626097",
+            "location": {
+                "address": ""
+            }
+        }                                                
 	]
 );
