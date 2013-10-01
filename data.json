@@ -352,6 +352,15 @@ processRecordCallback(
             "location": {
                 "address": ""
             }
-        }        
+        },
+        {
+            "name": "Xtracta",
+            "url": "www.xtracta.com",
+            "description": "",
+            "date_added": "1380625471",
+            "location": {
+                "address": ""
+            }
+        }                
 	]
 );
