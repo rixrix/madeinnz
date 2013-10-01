@@ -388,6 +388,15 @@ processRecordCallback(
             "location": {
                 "address": ""
             }
+        },
+        {
+            "name": "Konnect NET",
+            "url": "www.konnect.co.nz",
+            "description": "",
+            "date_added": "1380626219",
+            "location": {
+                "address": ""
+            }
         }                                                
 	]
 );
