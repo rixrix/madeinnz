@@ -334,6 +334,15 @@ processRecordCallback(
             "location": {
                 "address": ""
             }
-        }
+        },
+        {
+            "name": "Nextspace",
+            "url": "www.nextspace.co.nz",
+            "description": "",
+            "date_added": "1380625017",
+            "location": {
+                "address": ""
+            }
+        }        
 	]
 );
