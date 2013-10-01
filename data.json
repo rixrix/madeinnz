@@ -316,6 +316,15 @@ processRecordCallback(
             "location": {
                 "address": ""
             }
+        },
+        {
+            "name": "Summa BI",
+            "url": "http://www.summabi.com",
+            "description": "",
+            "date_added": "1380624613",
+            "location": {
+                "address": ""
+            }
         }
 	]
 );
