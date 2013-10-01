@@ -343,6 +343,15 @@ processRecordCallback(
             "location": {
                 "address": ""
             }
+        },
+        {
+            "name": "eBUS",
+            "url": "www.ebus.tv",
+            "description": "",
+            "date_added": "1380625241",
+            "location": {
+                "address": ""
+            }
         }        
 	]
 );
