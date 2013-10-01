@@ -2,7 +2,7 @@ processRecordCallback(
 	[
         {
             "name": "GrabOne",
-            "url": "http://www.grabone.co.nz",
+            "url": "www.grabone.co.nz",
             "desc": ""
         },
         {
@@ -17,12 +17,12 @@ processRecordCallback(
         },
         {
             "name": "Treat Me",
-            "url": "http://www.treatme.co.nz",
+            "url": "www.treatme.co.nz",
             "desc": ""
         },
         {
             "name": "Xero",
-            "url": "http://www.xero.com/",
+            "url": "www.xero.com/",
             "desc": ""
         },
         {
@@ -32,7 +32,7 @@ processRecordCallback(
         },
 	    {
 	        "name": "SPM Software",
-	        "url": "http://www.spmassets.com/",
+	        "url": "www.spmassets.com/",
 	        "desc": ""
 	    },
 	    {
@@ -45,63 +45,63 @@ processRecordCallback(
 	    },
 	    {
 	    	"name": "Unleased",
-	    	"url":"http://www.unleashedsoftware.com/"
+	    	"url":"www.unleashedsoftware.com/"
 	    },
 	    {
 	    	"name": "GeoOP",
-	    	"url": "http://www.geoop.com/"
+	    	"url": "www.geoop.com/"
 	    },
 	    {
 	    	"name": "Silverstripe",
-	    	"url": "http://www.silverstripe.com/"
+	    	"url": "www.silverstripe.com/"
  	    },
  	    {
  	    	"name": "Endace",
- 	    	"url": "http://www.endace.com/"
+ 	    	"url": "www.endace.com/"
  	    },
  	    {
  	    	"name": "Biomatters",
- 	    	"url": "http://www.biomatters.com/"
+ 	    	"url": "www.biomatters.com/"
  	    },
  	    {
  	    	"name": "Slingshot",
- 	    	"url": "http://www.slingshot.co.nz/"
+ 	    	"url": "www.slingshot.co.nz/"
  	    },
  	    {
  	    	"name": "Woosh",
- 	    	"url": "http://www.woosh.com/"
+ 	    	"url": "www.woosh.com/"
  	    },
  	    {
  	    	"name": "Optimizer HQ",
- 	    	"url": "http://www.optimizerhq.com/"
+ 	    	"url": "www.optimizerhq.com/"
  	    },
  	    {
  	    	"name": "Mako Networks",
- 	    	"url": "http://www.makonetworks.com/"
+ 	    	"url": "www.makonetworks.com/"
  	    },
  	    {
  	    	"name": "Car Jam",
- 	    	"url": "http://www.carjam.co.nz/"
+ 	    	"url": "www.carjam.co.nz/"
  	    },
  	    {
  	    	"name": "Findly",
- 	    	"url": "http://www.findly.com"
+ 	    	"url": "www.findly.com"
  	    },
  	    {
  	    	"name": "Bucky Box",
- 	    	"url": "http://www.buckybox.com"
+ 	    	"url": "www.buckybox.com"
  	    },
  	    {
  	    	"name": "Grinding Gear",
- 	    	"url": "http://www.grindinggear.com/"
+ 	    	"url": "www.grindinggear.com/"
  	    },
  	    {
  	    	"name": "Trigger Happy",
- 	    	"url": "http://www.iamtriggerhappy.com/"
+ 	    	"url": "www.iamtriggerhappy.com/"
  	    },
  	    {
  	    	"name": "Wipster",
- 	    	"url": "http://wipster.io"
+ 	    	"url": "wipster.io"
  	    },
  	    {
  	    	"name": "Teamisto",
@@ -125,15 +125,15 @@ processRecordCallback(
  	    },
  	    {
  	    	"name": "Questo",
- 	    	"url": "http://www.heyquesto.co/"
+ 	    	"url": "www.heyquesto.co/"
  	    },
  	    {
  	    	"name": "Vend",
- 	    	"url": "http://www.vendhq.com/"
+ 	    	"url": "www.vendhq.com/"
  	    },
  	    {
  	    	"name": "Orion Health",
- 	    	"url": "http://www.orionhealth.com"
+ 	    	"url": "www.orionhealth.com"
  	    },
  	    {
  	    	"name": "Swipe Stripe",
@@ -149,11 +149,11 @@ processRecordCallback(
  	    },
  	    {
  	    	"name": "Educa",
- 	    	"url": "http://www.educa.co.nz/"
+ 	    	"url": "www.educa.co.nz/"
  	    },
  	    {
  	    	"name" : "Pocketsmith",
- 	    	"url": "http://www.pocketsmith.com"
+ 	    	"url": "www.pocketsmith.com"
  	    },
  	    {
  	    	"name": "Luumin",
@@ -169,15 +169,15 @@ processRecordCallback(
  	    },
  	    {
  	    	"name": "Web Drive",
- 	    	"url": "http://www.webdrive.co.nz/"
+ 	    	"url": "www.webdrive.co.nz/"
  	    },
  	    {
  	    	"name": "NZGirl",
- 	    	"url": "http://www.nzgirl.co.nz/"
+ 	    	"url": "www.nzgirl.co.nz/"
  	    },
  	    {
  	    	"name": "Mighty Ape",
- 	    	"url": "http://www.mightyape.co.nz/"
+ 	    	"url": "www.mightyape.co.nz/"
  	    },
  	    {
  	    	"name": "Lil Regie",
@@ -185,11 +185,11 @@ processRecordCallback(
  	    },
  	    {
  	    	"name": "Yonix",
- 	    	"url": "http://www.yonix.com/"
+ 	    	"url": "www.yonix.com/"
  	    },
  	    {
  	    	"name": "nimbleScript",
- 	    	"url": "http://www.nimblescript.com/"
+ 	    	"url": "www.nimblescript.com/"
  	    },
  	    {
  	    	"name": "Unified Inbox",
@@ -213,23 +213,23 @@ processRecordCallback(
  	    },
  	    {
  	    	"name": "Filmsourcing",
- 	    	"url": "http://www.filmsourcing.com/"
+ 	    	"url": "www.filmsourcing.com/"
  	    },
  	    {
  	    	"name": "GreenButton",
- 	    	"url": "http://www.greenbutton.com"
+ 	    	"url": "www.greenbutton.com"
  	    },
  	    {
  	    	"name": "Serko",
- 	    	"url": "http://www.serkoonline.com/"
+ 	    	"url": "www.serkoonline.com/"
  	    },
  	    {
  	    	"name": "SnapComms",
- 	    	"url": "http://www.snapcomms.com"
+ 	    	"url": "www.snapcomms.com"
  	    },
  	    {
  	    	"name": "Lifetime Health Diary",
- 	    	"url": "http://www.lifetimehealthdiary.com/"
+ 	    	"url": "www.lifetimehealthdiary.com/"
  	    },
  	    {
  	    	"name": "KidsGoMobile",
@@ -237,7 +237,7 @@ processRecordCallback(
  	    },
         {
             "name": "Mobilize Mail",
-            "url": "http://www.mobilizemail.com"
+            "url": "www.mobilizemail.com"
         },
         {
             "name": "vWorkApp",
@@ -245,19 +245,19 @@ processRecordCallback(
         },
         {
             "name": "Smartrak",
-            "url": "http://www.smartrak.co.nz"
+            "url": "www.smartrak.co.nz"
         },
         {
             "name": "Straker Translations",
-            "url": "http://www.strakertranslations.com"
+            "url": "www.strakertranslations.com"
         },
         {
             "name": "Digital Arena",
-            "url": "http://www.digitalarena.co.nz"
+            "url": "www.digitalarena.co.nz"
         },
         {
             "name": "Revera",
-            "url": "http://www.revera.co.nz"
+            "url": "www.revera.co.nz"
         },
         {
             "name": "Address Finder",
@@ -265,11 +265,11 @@ processRecordCallback(
         },
         {
             "name": "Booktrack",
-            "url":"http://www.booktrack.com"
+            "url":"www.booktrack.com"
         },
         {
             "name": "Snitch",
-            "url": "http://www.snitch.co.nz"
+            "url": "www.snitch.co.nz"
         },
         {
             "name": "Strea.ma",
@@ -277,11 +277,11 @@ processRecordCallback(
         },
         {
             "name": "Realestate.co.nz Ltd",
-            "url": "http://www.realestate.co.nz"
+            "url": "www.realestate.co.nz"
         },
         {
             "name": "Logajob",
-            "url": "http://www.logajob.co.nz"
+            "url": "www.logajob.co.nz"
         },
         {
             "name": "Shopshop",
@@ -297,11 +297,11 @@ processRecordCallback(
         },
         {
             "name": "CricHQ",
-            "url": "http://www.crichq.com"
+            "url": "www.crichq.com"
         },
         {
             "name": "teknique",
-            "url": "http://www.teknique.com",
+            "url": "www.teknique.com",
             "description": "",
             "date_added": "1380489342",
             "location": {
@@ -310,7 +310,7 @@ processRecordCallback(
         },
         {
             "name": "Spidertracks",
-            "url": "http://www.spidertracks.com",
+            "url": "www.spidertracks.com",
             "description": "",
             "date_added": "1380624319",
             "location": {
@@ -319,7 +319,7 @@ processRecordCallback(
         },
         {
             "name": "Summa BI",
-            "url": "http://www.summabi.com",
+            "url": "www.summabi.com",
             "description": "",
             "date_added": "1380624613",
             "location": {
